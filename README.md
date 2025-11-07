@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is Omar
 
 <!--
 **o3m2a1r/o3m2a1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
